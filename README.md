@@ -1,6 +1,6 @@
 👋 Hi, I am Hendrik and i am building tools in the python visualization ecosystems.  
 
-My current projects:  
+My current projects  
 🪵 [Plywood Gallery](https://github.com/kolibril13/plywood-gallery) - documentation, where code snippets are represented by images (e.g. [this](https://kolibril13.github.io/plywood-gallery-functions/) gallery 📈)  
 🔍 [jupyter_compare_view](https://github.com/Octoframes/jupyter_compare_view) -  before/after image silder in JupyterLab  
 📸  [jupyter_capture_output](https://github.com/Octoframes/jupyter_capture_output) - captures cell output like text, image or video to a file  
@@ -9,6 +9,11 @@ My current projects:
 💬 [Discussions](https://discourse.jupyter.org/u/kolibril13/activity/topics) on Jupyter Discourse
 
 
+My future projects ideas  
+🌱 Plywood gallery sphinx extension - [issue](https://github.com/kolibril13/plywood-gallery/issues/23)  
+🌱 A Jupyter Plot annotation tool - [repo](https://github.com/Octoframes/tldraw_jupyter_experiment)   
+🌱 A Code diff animation tool - [issue](https://github.com/carbon-app/carbon/issues/1346)    
+🌱 A Jupyter package that streams code+output to Discord and other platforms- [discussion](https://discourse.jupyter.org/t/jupyterpost-post-from-jupyterhub-to-a-chat-server-mattermost/17656/5#posting-to-other-platforms-2)
 
 <!-- 
 
