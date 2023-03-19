@@ -13,7 +13,7 @@ My future projects ideas
 🌱 Plywood gallery sphinx extension - [issue](https://github.com/kolibril13/plywood-gallery/issues/23)  
 🌱 A Jupyter plot annotation tool - [repo](https://github.com/Octoframes/tldraw_jupyter_experiment)   
 🌱 A Code diff animation tool - [issue](https://github.com/carbon-app/carbon/issues/1346)    
-🌱 A Jupyter package that streams code+output to Discord and other platforms- [discussion](https://discourse.jupyter.org/t/jupyterpost-post-from-jupyterhub-to-a-chat-server-mattermost/17656/5#posting-to-other-platforms-2)
+🌱 Sharing of of Jupyter cells - [discussion](https://discourse.jupyter.org/t/jupyterpost-post-from-jupyterhub-to-a-chat-server-mattermost/17656/5#posting-to-other-platforms-2)
 
 <!-- 
 
