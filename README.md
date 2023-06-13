@@ -5,8 +5,10 @@ My current projects
 🔍 [jupyter_compare_view](https://github.com/Octoframes/jupyter_compare_view) -  before/after image silder in JupyterLab  
 📸  [jupyter_capture_output](https://github.com/Octoframes/jupyter_capture_output) - captures cell output like text, image or video to a file  
 🎨 [FlyingFrames](https://flyingframes.readthedocs.io/en/latest/) - Manim Documentation  
-🫁 [Animations](https://www.youtube.com/watch?v=f0sxjhGHRPo) and an [Interactive Webapp](https://kolibril13.github.io/ct-scanner-webapp/) about CT-Scanners  
+🖌️ [jupyter-tldraw](https://twitter.com/kolibril13/status/1661014246749261824) - a very good free whiteboard in Jupyter  
+⚛️ [ipyreact](https://github.com/widgetti/ipyreact) -  React for ipywidgets that just works  
 💬 [Discussions](https://discourse.jupyter.org/u/kolibril13/activity/topics) on Jupyter Discourse
+<!-- 🫁 [Animations](https://www.youtube.com/watch?v=f0sxjhGHRPo) and an [Interactive Webapp](https://kolibril13.github.io/ct-scanner-webapp/) about CT-Scanners   -->
 
 
 My future projects ideas  
