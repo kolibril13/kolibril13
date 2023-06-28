@@ -13,7 +13,6 @@ My current projects
 
 My future projects ideas  
 🌱 Plywood gallery sphinx extension - [issue](https://github.com/kolibril13/plywood-gallery/issues/23)  
-🌱 A Jupyter plot annotation tool - [repo](https://github.com/Octoframes/tldraw_jupyter_experiment)   
 🌱 Sharing of of Jupyter cells - [discussion](https://discourse.jupyter.org/t/jupyterpost-post-from-jupyterhub-to-a-chat-server-mattermost/17656/5#posting-to-other-platforms-2)    
 🌱 Interactive concept maps in Jupyter - [tweet](https://twitter.com/kolibril13/status/1634123208554082306)  
 🌱 Jupyter step-by-step sections for teaching - [tweet](https://twitter.com/kolibril13/status/1639262409175990272)  
